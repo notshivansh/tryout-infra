@@ -1,0 +1,6 @@
+name: tryout-testing-infra
+runtime:
+  name: nodejs
+  options:
+    typescript: false
+description: A program to setup tryout testing feature on aws.

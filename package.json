@@ -1,0 +1,10 @@
+{
+    "name": "tryout-testing-infra",
+    "main": "index.js",
+    "dependencies": {
+        "@pulumi/aws": "^5.0.0",
+        "@pulumi/aws-apigateway": "^1.0.1",
+        "@pulumi/awsx": "^1.0.0",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}
